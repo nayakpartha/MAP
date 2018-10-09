@@ -33,6 +33,7 @@ public class HashMapDemo {
 			
 		}
 		System.out.println(hm);
+			//partha
 			
 		}
 		
